@@ -146,6 +146,6 @@ I enjoy building modern, responsive websites and management systems — clean in
 
 <div align="center">
 
-_"Good code is like a love letter to the next developer who reads it."_
+_"Your creations will always have a special place in your life."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc8dd,cdb4db&height=80&section=footer&animation=fadeIn" />
