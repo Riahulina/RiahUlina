@@ -8,7 +8,7 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 **Laravel & Fullstack Learner · UI Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=800&color=D4739A&center=true&vCenter=true&width=480&lines=Crafting+Clean+Web+Experiences;Laravel+%26+Fullstack+Development;From+Database+to+Frontend;Building+with+Love+%26+Logic" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=800&color=D4739A&center=true&vCenter=true&width=480&lines=Web+Developer;Fullstack+Web+Development;Building+Modern+Web+Applications;UI+Design+%26+Backend+System" />
 
 </div>
 
