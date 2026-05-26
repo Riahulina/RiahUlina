@@ -1,96 +1,117 @@
-# Hi there 👋 I'm Riahh
+<div align="center">
 
-## About Me
+# ✨ Hi, I'm Riahh 👩‍💻
 
-Haii 🙌, Saya Riahh 👩‍💻  
-Saya Tertarik dengan web application, ngulik backend Laravel, UI modern, dan sistem yang membantu workflow jadi lebih efisien.
+### Laravel Developer • UI Enthusiast • Fullstack Learner
 
-💡 Fokus saat ini:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Laravel+Developer;Frontend+%26+Backend;React+Native+Learner;Building+Modern+Web+Apps" />
 
-- Laravel Development
-- Backend & Database System
-- UI/UX Web Design
-- API & Authentication System
-- Dashboard Management System
-
-🚀 Currently Learning:
-
-- Advanced Laravel
-- React Native
-- Oracle Database
-- Fullstack Development
-- Clean Architecture & REST API
-
-🎯 Interest:
-
-- Web App Development
-- Business System
-- Inventory & Financial System
-- UI Modern Design
-
-⚡ Motto:
-
-> “Build something useful, then make it beautiful.”
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🌸 About Me
 
-### Frontend
+```yaml
+name: Riah Ulina
+located_in: Indonesia
+current_focus: Laravel & Fullstack Development
+education: Management Informatika
+interests:
+  - Web Development
+  - UI/UX Design
+  - Database System
+  - Mobile Development
+  - Dashboard System
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+✨ Aku suka bikin website modern, dashboard management,  
+dan system development yang clean & responsive.
 
-### Backend
+---
 
-![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+# 💖 Tech Stack
 
-### Mobile
+### 🎀 Frontend
 
-![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-f8c8dc?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-e6a8d7?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-b5d8ff?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Database
+### 🧁 Backend
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![PHP](https://img.shields.io/badge/PHP-cdb4db?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff8fab?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🩷 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-a2d2ff?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-ffafcc?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 📱 Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-bde0fe?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
 # 🛠 Tools I Use
 
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Laragon](https://img.shields.io/badge/Laragon-orange?style=for-the-badge)
-![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp)
-![TablePlus](https://img.shields.io/badge/TablePlus-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Git Bash](https://img.shields.io/badge/Git_Bash-black?style=for-the-badge&logo=gnubash)
-![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=windows-terminal)
+![VS Code](https://img.shields.io/badge/VS_Code-cdb4db?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-ffc8dd?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/XAMPP-ffb4a2?style=for-the-badge&logo=xampp&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-bde0fe?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-ffafcc?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-cdb4db?style=for-the-badge&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-a2d2ff?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-# 🌟 Featured Repositories
+# 🌷 Featured Projects
+
+## 📚 MsLibrary
+
+Digital library system with:
+
+- Payment Gateway
+- Email Integration
+- Admin Dashboard
+- Authentication System
 
 ## 🚚 Driver Management System
 
-System management untuk:
+Features:
 
 - Pendapatan Driver
 - Hutang Driver
 - Withdraw System
-- Dashboard Admin
 - Financial Tracking
 
+## 🏆 PORSENI POLMED
+
+Event website with:
+
+- Dynamic Registration
+- Interactive UI
+- Responsive Design
+
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![Riah's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiahUlina&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiahUlina&layout=compact&theme=tokyonight)
+![Riah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riahulina&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riahulina&layout=compact&theme=radical)
+
+</div>
 
 ---
+
+<div align="center">
+
+### 💕 "Code. Create. Improve."
+
+</div>
