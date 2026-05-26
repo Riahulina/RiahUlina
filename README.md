@@ -1,10 +1,12 @@
+cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc8dd,cdb4db&height=120&section=header&animation=fadeIn" />
 
 # Hi there, I'm Riah Ulina 🌸
 
-**Laravel & Fullstack Learner · UI Enthusiast **
+**Laravel & Fullstack Learner · UI Enthusiast**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=800&color=D4739A&center=true&vCenter=true&width=480&lines=Crafting+Clean+Web+Experiences;Laravel+%26+Fullstack+Development;From+Database+to+Frontend;Building+with+Love+%26+Logic" />
 
@@ -16,8 +18,6 @@
 
 ```yaml
 name: Riah Ulina
-username: Riahulina
-location: Indonesia
 education: Manajemen Informatika
 focus: Laravel · Fullstack Web Development
 interests:
@@ -123,9 +123,9 @@ I enjoy building modern, responsive websites and management systems — clean in
 
 <div align="center">
 
-![Riah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riahulina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79a8&icon_color=cdb4db&text_color=c9d1d9)
+![Riah's GitHub Stats](https://github-readme-stats-chi-beryl-49.vercel.app/api?username=Riahulina&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ff79a8&icon_color=cdb4db&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riahulina&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79a8&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-chi-beryl-49.vercel.app/api/top-langs/?username=Riahulina&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ff79a8&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Riahulina&theme=tokyonight&hide_border=true&background=1a1b27&ring=ff79a8&fire=ffc8dd&currStreakLabel=cdb4db)
 
@@ -151,5 +151,3 @@ I enjoy building modern, responsive websites and management systems — clean in
 _"Good code is like a love letter to the next developer who reads it."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc8dd,cdb4db&height=80&section=footer&animation=fadeIn" />
-
-</div>
